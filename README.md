@@ -11,6 +11,7 @@ IMAGES:
 ![Screenshot 2025-04-10 215024](https://github.com/user-attachments/assets/f1791035-1de5-40f5-bb3b-7cc8c7620622)
 
 CaddyHack
+
 Welcome to my Golf Application! 🏌️‍♂️⛳️ This project is a full-stack web application designed for managing golf leagues, tracking scores, and displaying detailed player statistics. Built with a robust backend and a sleek frontend, the app provides a seamless experience for golf enthusiasts and league organizers alike.
 
 🚀 Features
