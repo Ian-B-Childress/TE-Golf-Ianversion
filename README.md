@@ -1,8 +1,12 @@
-# Final Capstone
-​
-This directory contains all of the starter projects for the final capstone.
-​
-Each project contains instructions that provides information about the starting code and explains how to get started with the final capstone project.
+IMAGES:
+
+![Screenshot 2025-04-10 215143](https://github.com/user-attachments/assets/62594afb-a99d-49db-89d9-32c07d59f5c2)
 
 
-This project is a full-stack application to give users the ability to look at different golf courses, set play times, and invite friends to play!
+![Screenshot 2025-04-10 215132](https://github.com/user-attachments/assets/f915a113-dec0-4520-8afa-c203b98966b1)
+
+![Screenshot 2025-04-10 215106](https://github.com/user-attachments/assets/1ed8aca0-47d9-4201-8fa6-266b9188cd7e)
+
+![Screenshot 2025-04-10 215101](https://github.com/user-attachments/assets/11ce1e4d-498d-446b-ab78-f0cd439d1b05)
+
+![Screenshot 2025-04-10 215024](https://github.com/user-attachments/assets/f1791035-1de5-40f5-bb3b-7cc8c7620622)
